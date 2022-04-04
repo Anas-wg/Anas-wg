@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 
 📢 Contact
+
 [![NaverBlog](https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/false90)
 ![NaverBlog](https://img.shields.io/badge/Email:false90@naver.com-03C75A?style=flat-square&logo=Minutemailer&logoColor=white)
 
