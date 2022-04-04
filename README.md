@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 📢 Contact
 
 [![NaverBlog](https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/false90)
-![NaverBlog](https://img.shields.io/badge/Email:false90@naver.com-03C75A?style=flat-square&logo=Minutemailer&logoColor=white)
+![Mail](https://img.shields.io/badge/Email:false90@naver.com-03C75A?style=flat-square&logo=Minutemailer&logoColor=white)
 
