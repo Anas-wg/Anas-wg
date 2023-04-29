@@ -40,5 +40,6 @@ Here are some ideas to get you started:
 📢 Contact
 
 [![NaverBlog](https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/false90)
-![Mail](https://img.shields.io/badge/Email:wg12181218@gmail.com-03C75A?style=flat-square&logo=Minutemailer&logoColor=white)
+[![Mail](https://img.shields.io/badge/Email:wg12181218@gmail.com-03C75A?style=flat-square&logo=Minutemailer&logoColor=white)](
+https://mail.google.com/mail/?view=cm&fs=1&to=wg12181218@gmail.com)
 
