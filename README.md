@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 - 🦁 Likelion HUFS(Seoul) 10th FrontEnd Course (2022.03 - 2023.02)
   - Greenary : Detail page( React, Styled-Component, Figma)
     - to Show each Flower's data using API from BE Team.
-- 🎮 NEXON MapleStroy Worlds X Supporters HACKATHON (2022.07 - 2022.09)
+- 🎮 NEXON MapleStroy Worlds X Supporters (2022.07 - 2022.09)
   - Las Petgas : Speed Rottery Map
-    - to design logic to calculate the winning probability for each pet.  
+    - to design logic to calculate the winning probability for each pet.
+- 💻 GDSC HUFS 5th Member (2023.09 - ing)
 
 
 ✍️Studying
@@ -35,7 +36,7 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Flutter-61DAFB?style=flat-square&logo=flutter&logoColor=white"/>
 
 📢 Contact
 
