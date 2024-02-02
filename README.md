@@ -38,6 +38,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-61DAFB?style=flat-square&logo=flutter&logoColor=white"/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-wg&layout=compact)
+
+
 📢 Contact
 
 [![NaverBlog](https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/false90)
