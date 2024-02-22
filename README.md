@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Wangi_Code_Note_📒&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ChoWanGi_📒&fontSize=54)
 
 💻 Experience
 - 🏫 Hankuk University of Foriegn Studies(Seoul)- Arabic & Software
