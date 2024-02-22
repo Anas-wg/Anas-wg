@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     - to design logic to calculate the winning probability for each pet.
 - 💻 GDSC HUFS 5th Member (2023.09 - ing)
   - Quick Drop : Main Page, Donation Process
-    - Get and Post Item and it's Image using POSTMAN(MSW), API.
+    - Get and Post Item and it's Image using POSTMAN, API.
     - Get AI Classify Result and Render to User.
 
 
