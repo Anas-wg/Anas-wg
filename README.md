@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ChoWanGi_📒&fontSize=54)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=ChoWanGi_📒&fontSize=54)
 
 💻 Experience
 - 🏫 Hankuk University of Foriegn Studies(Seoul)- Arabic & Software
@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   - Greenary : Detail page( React, Styled-Component, Figma)
     - to Show each Flower's data using API from BE Team.
 - 🎮 NEXON MapleStroy Worlds X Supporters (2022.07 - 2022.09)
-  - Las Petgas : Speed Rottery Map
+  - Las Petgas : Speed Rottery Map (Lua-based platform self-developed language)
     - to design logic to calculate the winning probability for each pet.
 - 💻 GDSC HUFS 5th Member (2023.09 - ing)
-  - Quick Drop : Main Page, Donation Process
+  - Quick Drop : Main Page, Donation Process (Flutter & Dart)
     - Get and Post Item and it's Image using POSTMAN, API.
     - Get AI Classify Result and Render to User.
 
