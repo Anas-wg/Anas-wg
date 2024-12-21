@@ -36,19 +36,14 @@ Here are some ideas to get you started:
 
 ✍️Tech Stack
 - Front-End
-  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-61DAFB?style=flat-square&logo=flutter&logoColor=white"/>
+
+<img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-wg&layout=compact)
 
 
 📢 Contact
 
-[![Personal: NaverBlog](https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/false90)
 [![Dev : velog](https://img.shields.io/badge/velog-4DE6AC?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@false90)
 [![Mail](https://img.shields.io/badge/Email:wg12181218@gmail.com-03C75A?style=flat-square&logo=Minutemailer&logoColor=white)](
 https://mail.google.com/mail/?view=cm&fs=1&to=wg12181218@gmail.com)
