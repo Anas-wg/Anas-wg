@@ -27,11 +27,14 @@ Here are some ideas to get you started:
 - 🎮 NEXON MapleStroy Worlds X Supporters (2022.07 - 2022.09)
   - Las Petgas : Speed Rottery Map (Lua-based platform self-developed language)
     - to design logic to calculate the winning probability for each pet.
-- 💻 GDSC HUFS 5th Member (2023.09 - ing)
+- 💻 GDSC HUFS 5th Member (2023.09 - 2024.09)
   - Quick Drop : Main Page, Donation Process (Flutter & Dart)
     - Get and Post Item and it's Image using POSTMAN, API.
     - Get AI Classify Result and Render to User.
-
+- 💻 Morning Buddies Team Project (2024.08 - 2024.12)
+  - Morning Buddies : SMS Authentication, Puzzle Game
+    - Using RepaintBoundary class, solved the problem by shortening the PAINT time by Frame from 98 ms to 8 ms.
+  
 
 
 ✍️Tech Stack
