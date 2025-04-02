@@ -33,7 +33,7 @@ https://mail.google.com/mail/?view=cm&fs=1&to=wg12181218@gmail.com)
 
 - FrameWorks & Library
 <img src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=Flutter&logoColor=white"> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> 
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 <img src = "https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 
