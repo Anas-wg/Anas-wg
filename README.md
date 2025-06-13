@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&fontcolor=A4E8FF&height=300&section=header&text=ChoWanGi_📒&fontSize=54)
 
 - My Dev Blog  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=false90)](https://github.com/false90/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=false90)](https://velog.io/@false90/posts)
 
 
 **📢 Contact**
