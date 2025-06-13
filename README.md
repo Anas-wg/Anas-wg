@@ -1,10 +1,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&fontcolor=A4E8FF&height=300&section=header&text=ChoWanGi_📒&fontSize=54)
 
+- My Dev Blog  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=false90)](https://github.com/false90/velog-readme-stats)
+
 
 **📢 Contact**
 
-[![Dev : velog](https://img.shields.io/badge/velog-4DE6AC?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@false90)
 [![Mail](https://img.shields.io/badge/Email:wg12181218@gmail.com-03C75A?style=flat-square&logo=Minutemailer&logoColor=white)](
 https://mail.google.com/mail/?view=cm&fs=1&to=wg12181218@gmail.com)
 
@@ -43,4 +45,6 @@ https://mail.google.com/mail/?view=cm&fs=1&to=wg12181218@gmail.com)
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=false90)](https://solved.ac/false90) ![Anas-wg's github stats](https://github-readme-stats.vercel.app/api?username=Anas-wg)
+
+
 
