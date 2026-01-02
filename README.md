@@ -28,7 +28,7 @@ https://mail.google.com/mail/?view=cm&fs=1&to=wg12181218@gmail.com)
 - tools
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=false90)](https://solved.ac/false90) ![Anas-wg's github stats](https://github-readme-stats.vercel.app/api?username=Anas-wg)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=false90)](https://solved.ac/false90)
 
 
 
